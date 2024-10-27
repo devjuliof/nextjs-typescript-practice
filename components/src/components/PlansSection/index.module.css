@@ -1,0 +1,16 @@
+.plans-section {
+  padding: 2% 16%;
+  display: flex;
+}
+
+@media screen and (max-width: 1400px) {
+  .plans-section {
+    padding: 2% 8%;
+  }
+}
+
+@media screen and (max-width: 1110px) {
+  .plans-section {
+    padding: 2% 4%;
+  }
+}

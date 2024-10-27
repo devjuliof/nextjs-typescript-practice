@@ -1,0 +1,19 @@
+:root {
+  --text-color: #1e2532;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2,
+p {
+  color: var(--text-color);
+}
+
+button {
+  cursor: pointer;
+}
